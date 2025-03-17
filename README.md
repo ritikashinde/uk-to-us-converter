@@ -29,10 +29,10 @@ translated_text = translate("I travelled to the centre of the city.", model, tok
 
 print(translated_text)  
 # Output: 
-"I traveled to the center of the city."
+"I have an apartment near the elevator."
 
 #Example
 
-Input: "I travelled to the centre of the city."
+Input: "I have a flat near the lift."
 
-Output: "I traveled to the center of the city."
+Output: "I have an apartment near the elevator."
